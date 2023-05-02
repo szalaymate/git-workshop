@@ -1,4 +1,8 @@
 betterNewLine
 oneMoreLine
 Urgent fix
+<<<<<<< HEAD
 Other bugfix
+=======
+Fix in feature 3
+>>>>>>> e5e6c51 (Refactors related to feature 3)
